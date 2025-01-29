@@ -26,3 +26,23 @@ h2 {
     align-items: center;
     justify-self: center;
 }
+h3{
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #333;
+    width: 200px;
+    height: 40px;
+    align-items: center;
+    justify-self: center;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    width: 150px;
+    height: 30px;
+    align-items: center;
+    justify-self: center;
+}
